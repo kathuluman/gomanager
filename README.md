@@ -368,19 +368,6 @@ chmod -R u+r ~/go/pkg
 
 MIT License — Use freely, modify, distribute. See LICENSE file.
 
----
-
-## 🤝 Contributing
-
-Found a bug? Feature idea?
-
-1. Fork on Gitea
-2. `git checkout -b feature/your-idea`
-3. Make changes
-4. `git commit -am 'Add feature'`
-5. Push and open PR
-
----
 
 
 
